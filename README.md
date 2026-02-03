@@ -9,6 +9,7 @@ Create a class called `Sorter` with three sorting methods:
 - Bubble Sort
 - Selection Sort
 - Insertion Sort
+- Heap Sort
 
 ---
 
