@@ -15,26 +15,13 @@ Create a class called `Sorter` with three sorting methods:
 
 ## Part 2: Stack Class
 
-Implement a `Stack` class.
-
-**Methods:**
-- `push()`
-- `pop()`
-- `peek()`
-- `isEmpty()`
+Implement a `Stack` class
 
 ---
 
 ## Part 3: Queue Class
 
 Implement a `Queue` class.
-
-**Methods:**
-- `enqueue()`
-- `dequeue()`
-- `front()`
-- `isEmpty()`
-
 
 ---
 
